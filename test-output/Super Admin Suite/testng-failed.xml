@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Super Admin Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/Rabia-Riaz/IdeaProjects/AdTech(failed)">
+    <classes>
+      <class name="TestCasesPackage.SellerCentralAdminTestCases">
+        <methods>
+          <include name="DesireCapability"/>
+          <include name="abc"/>
+        </methods>
+      </class> <!-- TestCasesPackage.SellerCentralAdminTestCases -->
+    </classes>
+  </test> <!-- C:/Users/Rabia-Riaz/IdeaProjects/AdTech(failed) -->
+</suite> <!-- Failed suite [Super Admin Suite] -->
